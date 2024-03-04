@@ -32,14 +32,14 @@
             max-width: 1100px;
             margin: auto;
             display: flex;
-            justify-content: center;
+            justify-content: flex-start;
             align-items: center;
             padding: 10px 20px;
         }
         
         #inicio .contenido header .contenido-header h1 {
             text-align: center;
-            color: #ff5080;
+            color: #50ebff;
         }
         
         #inicio .contenido header .contenido-header nav ul {
@@ -57,7 +57,7 @@
         }
         
         #inicio .contenido header .contenido-header nav ul li a:hover {
-            color: #ff5080;
+            color: #50ebff;
         }
         
         #inicio .contenido header .contenido-header .redes a {
@@ -69,11 +69,11 @@
         }
         
         #inicio .contenido header .contenido-header .redes a:hover {
-            color: #ff5080;
+            color: #50ebff;
         }
         
         #inicio .contenido header .contenido-header .seleccionado {
-            color: #ff5080;
+            color: #50ebff;
         }
         
         #inicio .contenido .presentacion {
@@ -102,7 +102,7 @@
         
         #inicio .contenido .presentacion h2 span {
             font-size: 25px;
-            color: #ff5080;
+            color: #50ebff;
         }
         
         #inicio .contenido .presentacion .descripcion {
@@ -126,7 +126,7 @@
         }
         
         #inicio .contenido .presentacion a:hover {
-            background-color: #ff5080;
+            background-color: #50ebff;
         }
         
         #icono-nav {
@@ -178,7 +178,7 @@
         }
         
         #sobremi .sobremi h2 span {
-            color: #ff5080;
+            color: #181616;
         }
         
         #sobremi .sobremi h3 {
@@ -208,7 +208,7 @@
         }
         
         #sobremi .sobremi a:hover {
-            background-color: #ff5080;
+            background-color: #50ebff;
             color: #fff;
         }
         /* *********************/
